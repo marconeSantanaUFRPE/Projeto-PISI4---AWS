@@ -2,8 +2,8 @@
 
 
 # Requisições
- /tempmax
- /tempmin
- /radiacao
- /umidmed
- /precipitacao
+ */tempmax
+ */tempmin
+ */radiacao
+ */umidmed
+ */precipitacao
